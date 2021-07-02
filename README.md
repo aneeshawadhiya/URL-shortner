@@ -1,2 +1,5 @@
-# URL-shortner
-GUI based URL-Shortener
+
+# GUI based URL_Shortener
+
+URl Shortener using TKinter, pyshorteners.
+
